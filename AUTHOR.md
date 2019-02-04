@@ -1,3 +1,0 @@
-#author
-
-kamal hossain

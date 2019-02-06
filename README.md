@@ -1,5 +1,8 @@
 # README
 
-## Contributors
+<<<<<<< HEAD
 
-- Bob
+## Contributors 
+-Alice
+=======
+

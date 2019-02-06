@@ -1,5 +1,8 @@
 # README
 
+<<<<<<< HEAD
 
 ## Contributors 
 -Alice
+=======
+
